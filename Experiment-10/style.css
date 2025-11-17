@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: white;
+    text-align: center;
+}
+
+h1 {
+    color: lightgreen;
+}
+
+button {
+    padding: 10px 20px;
+    background: lightgreen;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: lightgreen;
+}
+
+.card {
+    margin: 20px auto;
+    width: 70%;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card p {
+    text-align: left;
+    font-size: 18px;
+}
